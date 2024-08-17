@@ -1,0 +1,21 @@
+   virus_signatures = [
+    "Sality", "Blaster", "Mydoom", "Stuxnet", "Sober", "Zotob", "Mytob", "Virut", "Conficker", "Klez", "Nimda",
+    "Sasser", "LoveLetter", "CodeRed", "Melissa", "SQLSlammer", "Sobig", "Bagle", "Aliz", "Netsky", "Lirva",
+    "Brontok", "Swizzor", "Waledac", "Mebroot", "Gaobot", "Korgo", "Rbot", "Doomjuice", "MyWife", "Bugbear",
+    "Opaserv", "Haxdoor", "Rontokbro", "Nyxem", "Daprosy", "Nachi", "Fizzer", "Mumu", "Mugly", "Hidrag", "Cih",
+    "Bi", "Parite", "Heuristic", "Funlove", "Codered", "Wintrim", "Delf", "Small", "Agent", "Bofra", "Breplibot",
+    "Cuebot", "Dloader", "Funweb", "Gaobot", "Haxdoor", "KillAV", "Lovgate", "Mimail", "Nachi", "Netbus", "Netsky",
+    "Opaserv", "Optix", "Protoride", "Psychward", "Qhost", "Rbot", "Scob", "Sdbot", "Servu", "Small", "Spooldr",
+    "Squelch", "Spybot", "Sysbug", "Taterf", "TrojanDownloader", "Viking", "Virut", "Vundo", "Warezov", "Wimad",
+    "Wowcraft", "Wukill", "Wurmark", "Zafi", "Zapchast", "Zerolin", "Zhelatin", "Zlob", "Zotob", "Bagz", "Backdoor",
+    "Bayrob", "BHO", "Blackmal", "Blaster", "Bobax", "Bofra", "Bugbear", "Bundpill", "Bymer", "Caishow", "Cher",
+    "Citadel", "Clicker", "Comfig", "Conficker", "Crowt", "Crypt", "Dengue", "Dexter", "Diehard", "Dloader",
+    "Downloader", "Doomjuice", "Dorkbot", "Downadup", "Dref", "Dropper", "Dumaru", "Dynamer", "Elkern", "Emerleox",
+    "Emerow", "Evaman", "Evildoc", "Evolution", "Fakerecy", "Fatso", "Feebs", "Fizzer", "Flex", "Florin", "Fonded",
+    "Frethog", "Funweb", "Fynloski", "Gaobot", "Ganda", "Gav", "Gator", "Goblin", "Googledot", "Grok", "Gumblar",
+    "HacDef", "s0fTw4R30pT1m1z4t10n\d*", "malware_pattern_1", "another_malicious_code_pattern",
+    "example_virus_signature_123", "dangerous_code_456", "s0fTw4R30pT1m1z4t10n1719165680"
+]
+
+
+
